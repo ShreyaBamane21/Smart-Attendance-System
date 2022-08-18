@@ -12,12 +12,12 @@ Python
 
 ## Algorithms 📝
 
-- Haar Cascade Classifier
+- Haar Cascade Classifier-
 It is a classifier in which Cascade function is trained with positive  and negative images.
 Collect the HAAR features i.e the edge features, line features and  centre surrounded features.
 The algorithm is going to be used in face detection and feature  extraction
 
-- Local Binary Pattern Histogram
+- Local Binary Pattern Histogram:
 Local Binary Pattern Histogram (LBPH) face recognizer is used for taking attendance of students. LBPH facial recognizer is a pre-trained facial recognition classifier. If enough data sets are available on the face that is needed to be identified, LBPH can perform facial recognition with high accuracy.
 
 
