@@ -18,19 +18,6 @@ We seek to provide a valuable attendance service for both teachers and students.
 * Recognize Faces & Attendance
 * Automatic Email
 
-## Screenshots :camera:
------------------------------------
-### Command Line Interface
-
-![Command Line Interdace](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/1.PNG)
-
-### Checking Camera
-
-![Checking Camera](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/2.PNG)
-
-### Automail 
-
-![Automail](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/automail.jpg)
 
 
 ## Tech Used :computer:
